@@ -24,5 +24,7 @@ Linked in: www.linkedin.com/in/vibhuti-chandrayan-699b4b317
 
 Trailhead: https://www.salesforce.com/trailblazer/oxyuuyyr4uyk4ql9b8
 
+(Completed the TCS TRAILMIX)
+
 
 Project documentation: https://drive.google.com/drive/folders/14J8I2ORvM_wzpjtmp-PsaiAI0qezgPv-?usp=sharing
