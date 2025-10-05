@@ -1,0 +1,14 @@
+<template>
+    <lightning-card title="Recent Fraud Alert">
+        <template if:true={alert.data}>
+            <lightning-datatable
+                key-field="Id"
+                data={alerts.data}
+                columns={columns}>
+            </lightning-datatable>
+        </template>
+        <template if:true={alert.error}>
+            <p>{alerts.error}</p>
+        </template>
+    </lightning-card>
+</template>
